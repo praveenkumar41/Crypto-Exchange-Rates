@@ -1,0 +1,1895 @@
+{
+  "result": [
+    {
+      "code": "RUNE",
+      "name": "THORChain",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 6.75213866068983,
+      "type": "DIG"
+    },
+    {
+      "code": "WAVES",
+      "name": "Waves",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 16.0771338983012,
+      "type": "DIG"
+    },
+
+    {
+      "code": "KCS",
+      "name": "KuCoin Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 21.3532097257071,
+      "type": "DIG"
+    },
+    {
+      "code": "BAT",
+      "name": "Basic Attention Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.13821767454623,
+      "type": "DIG"
+    },
+    {
+      "code": "CHZ",
+      "name": "Chiliz",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.272459800856362,
+      "type": "DIG"
+    },
+    {
+      "code": "HT",
+      "name": "Huobi Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 9.95921598959266,
+      "type": "DIG"
+    },
+    {
+      "code": "CELO",
+      "name": "Celo",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 4.15794827018384,
+      "type": "DIG"
+    },
+    {
+      "code": "HOT",
+      "name": "Holo",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.00792644220956081,
+      "type": "DIG"
+    },
+    {
+      "code": "DASH",
+      "name": "Dash",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 130.599080643492,
+      "type": "DIG"
+    },
+    {
+      "code": "YFI",
+      "name": "yearn.finance",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 35023.0014227542,
+      "type": "DIG"
+    },
+    {
+      "code": "TUSD",
+      "name": "TrueUSD",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.00065703234743,
+      "type": "DIG"
+    },
+    {
+      "code": "NEXO",
+      "name": "Nexo",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.20685362425561,
+      "type": "DIG"
+    },
+    {
+      "code": "COMP",
+      "name": "Compound",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 191.869584485421,
+      "type": "DIG"
+    },
+    {
+      "code": "IOTX",
+      "name": "IoTeX",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.123182249519269,
+      "type": "DIG"
+    },
+    {
+      "code": "XEM",
+      "name": "NEM",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.126744712709202,
+      "type": "DIG"
+    },
+    {
+      "code": "XDC",
+      "name": "XDC Network",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0850629177626542,
+      "type": "DIG"
+    },
+    {
+      "code": "MINA",
+      "name": "Mina",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.16838930505073,
+      "type": "DIG"
+    },
+    {
+      "code": "1INCH",
+      "name": "1inch Network",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.42064577532785,
+      "type": "DIG"
+    },
+    {
+      "code": "TFUEL",
+      "name": "Theta Fuel",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.192762324372613,
+      "type": "DIG"
+    },
+    {
+      "code": "DCR",
+      "name": "Decred",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 70.7875395506687,
+      "type": "DIG"
+    },
+    {
+      "code": "USDP",
+      "name": "Pax Dollar",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.9998781627774,
+      "type": "DIG"
+    },
+    {
+      "code": "CEL",
+      "name": "Celsius",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.82148527428681,
+      "type": "DIG"
+    },
+    {
+      "code": "QTUM",
+      "name": "Qtum",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 9.12281737824816,
+      "type": "DIG"
+    },
+    {
+      "code": "BORA",
+      "name": "BORA",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.0388900077115,
+      "type": "DIG"
+    },
+    {
+      "code": "ROSE",
+      "name": "Oasis Network",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.255990745860002,
+      "type": "DIG"
+    },
+    {
+      "code": "REV",
+      "name": "Revain",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.01022018523703,
+      "type": "DIG"
+    },
+    {
+      "code": "RVN",
+      "name": "Ravencoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0839649204757983,
+      "type": "DIG"
+    },
+    {
+      "code": "ICX",
+      "name": "ICON",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.26432132821795,
+      "type": "DIG"
+    },
+    {
+      "code": "VGX",
+      "name": "Voyager Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.03995908409442,
+      "type": "DIG"
+    },
+    {
+      "code": "OMG",
+      "name": "OMG Network",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 6.01433725780476,
+      "type": "DIG"
+    },
+    {
+      "code": "ETH",
+      "name": "Ethereum",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3979.7433357263,
+      "type": "DIG"
+    },
+    {
+      "code": "BNB",
+      "name": "Binance Coin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 526.137770838993,
+      "type": "DIG"
+    },
+    {
+      "code": "USDT",
+      "name": "Tether",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.00027775443367,
+      "type": "DIG"
+    },
+    {
+      "code": "SOL",
+      "name": "Solana",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 177.919457941818,
+      "type": "DIG"
+    },
+    {
+      "code": "ADA",
+      "name": "Cardano",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.25511330683767,
+      "type": "DIG"
+    },
+    {
+      "code": "USDC",
+      "name": "USD Coin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.998612338815746,
+      "type": "DIG"
+    },
+    {
+      "code": "XRP",
+      "name": "XRP",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.891178943124474,
+      "type": "DIG"
+    },
+    {
+      "code": "LUNA",
+      "name": "Terra",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 84.5379055586546,
+      "type": "DIG"
+    },
+    {
+      "code": "AVAX",
+      "name": "Avalanche",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 117.51289450588,
+      "type": "DIG"
+    },
+    {
+      "code": "DOT",
+      "name": "Polkadot",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 24.8118829299204,
+      "type": "DIG"
+    },
+    {
+      "code": "DOGE",
+      "name": "Dogecoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.168915212792431,
+      "type": "DIG"
+    },
+    {
+      "code": "SHIB",
+      "name": "SHIBA INU",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0000320366733665014,
+      "type": "DIG"
+    },
+    {
+      "code": "MATIC",
+      "name": "Polygon",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.31357180145163,
+      "type": "DIG"
+    },
+    {
+      "code": "BUSD",
+      "name": "Binance USD",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.00046904208004,
+      "type": "DIG"
+    },
+    {
+      "code": "CRO",
+      "name": "Crypto.com Coin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.516356650773944,
+      "type": "DIG"
+    },
+    {
+      "code": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 47875.2206876316,
+      "type": "DIG"
+    },
+    {
+      "code": "LTC",
+      "name": "Litecoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 152.905924065805,
+      "type": "DIG"
+    },
+    {
+      "code": "DAI",
+      "name": "Dai",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.0047034683397,
+      "type": "DIG"
+    },
+    {
+      "code": "UNI",
+      "name": "Uniswap",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 14.7339177604757,
+      "type": "DIG"
+    },
+    {
+      "code": "UST",
+      "name": "TerraUSD",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.00080082495009,
+      "type": "DIG"
+    },
+    {
+      "code": "LINK",
+      "name": "Chainlink",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 18.9877510358853,
+      "type": "DIG"
+    },
+    {
+      "code": "ALGO",
+      "name": "Algorand",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.33220533023203,
+      "type": "DIG"
+    },
+    {
+      "code": "BCH",
+      "name": "Bitcoin Cash",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 434.124110083996,
+      "type": "DIG"
+    },
+    {
+      "code": "TRX",
+      "name": "TRON",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0781650343254576,
+      "type": "DIG"
+    },
+    {
+      "code": "XLM",
+      "name": "Stellar",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.262332768851068,
+      "type": "DIG"
+    },
+    {
+      "code": "MANA",
+      "name": "Decentraland",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.22201126293951,
+      "type": "DIG"
+    },
+    {
+      "code": "AXS",
+      "name": "Axie Infinity",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 96.0085661535296,
+      "type": "DIG"
+    },
+    {
+      "code": "FTT",
+      "name": "FTX Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 41.785762280498,
+      "type": "DIG"
+    },
+    {
+      "code": "HBAR",
+      "name": "Hedera",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.306366443445238,
+      "type": "DIG"
+    },
+    {
+      "code": "VET",
+      "name": "VeChain",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0813485473019197,
+      "type": "DIG"
+    },
+    {
+      "code": "NEAR",
+      "name": "NEAR Protocol",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 8.66703045407704,
+      "type": "DIG"
+    },
+    {
+      "code": "ATOM",
+      "name": "Cosmos",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 22.6150677079953,
+      "type": "DIG"
+    },
+    {
+      "code": "BTCB",
+      "name": "Bitcoin BEP2",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 48492.1199947295,
+      "type": "DIG"
+    },
+    {
+      "code": "FIL",
+      "name": "Filecoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 34.842537877385,
+      "type": "DIG"
+    },
+    {
+      "code": "EGLD",
+      "name": "Elrond",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 240.551129016599,
+      "type": "DIG"
+    },
+    {
+      "code": "SAND",
+      "name": "The Sandbox",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 5.05314492143263,
+      "type": "DIG"
+    },
+    {
+      "code": "ETC",
+      "name": "Ethereum Classic",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 35.0369521337933,
+      "type": "DIG"
+    },
+    {
+      "code": "ICP",
+      "name": "Internet Computer",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 23.2129047683338,
+      "type": "DIG"
+    },
+    {
+      "code": "THETA",
+      "name": "THETA",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 4.07713434571185,
+      "type": "DIG"
+    },
+    {
+      "code": "HNT",
+      "name": "Helium",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 36.5296733695948,
+      "type": "DIG"
+    },
+    {
+      "code": "XTZ",
+      "name": "Tezos",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 4.17262107391468,
+      "type": "DIG"
+    },
+    {
+      "code": "FTM",
+      "name": "Fantom",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.41622965790082,
+      "type": "DIG"
+    },
+    {
+      "code": "LEO",
+      "name": "UNUS SED LEO",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.68636422094199,
+      "type": "DIG"
+    },
+    {
+      "code": "XMR",
+      "name": "Monero",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 190.270525051639,
+      "type": "DIG"
+    },
+    {
+      "code": "MIOTA",
+      "name": "IOTA",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.19438711141957,
+      "type": "DIG"
+    },
+    {
+      "code": "KLAY",
+      "name": "Klaytn",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 1.27121689654885,
+      "type": "DIG"
+    },
+    {
+      "code": "GRT",
+      "name": "The Graph",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.678530665093976,
+      "type": "DIG"
+    },
+    {
+      "code": "EOS",
+      "name": "EOS",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 3.26967196767141,
+      "type": "DIG"
+    },
+    {
+      "code": "BTC",
+      "name": "Bitcoin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 48523.3426233928,
+      "type": "DIG"
+    },
+    {
+      "code": "GALA",
+      "name": "Gala",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.435084121664711,
+      "type": "DIG"
+    },
+    {
+      "code": "CAKE",
+      "name": "PancakeSwap",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 11.8712772450374,
+      "type": "DIG"
+    },
+    {
+      "code": "LRC",
+      "name": "Loopring",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.24126918478813,
+      "type": "DIG"
+    },
+    {
+      "code": "ONE",
+      "name": "Harmony",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.23829705006262,
+      "type": "DIG"
+    },
+    {
+      "code": "STX",
+      "name": "Stacks",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.08438174125873,
+      "type": "DIG"
+    },
+    {
+      "code": "BTT",
+      "name": "BitTorrent",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.00265031637606203,
+      "type": "DIG"
+    },
+    {
+      "code": "FLOW",
+      "name": "Flow",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 8.2712533960019,
+      "type": "DIG"
+    },
+    {
+      "code": "AAVE",
+      "name": "Aave",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 182.783783002754,
+      "type": "DIG"
+    },
+    {
+      "code": "MKR",
+      "name": "Maker",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2404.06042393324,
+      "type": "DIG"
+    },
+    {
+      "code": "BSV",
+      "name": "Bitcoin SV",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 123.616034720049,
+      "type": "DIG"
+    },
+    {
+      "code": "KSM",
+      "name": "Kusama",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 266.008028675612,
+      "type": "DIG"
+    },
+    {
+      "code": "QNT",
+      "name": "Quant",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 176.933205522739,
+      "type": "DIG"
+    },
+    {
+      "code": "ZEC",
+      "name": "Zcash",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 158.54026794035,
+      "type": "DIG"
+    },
+    {
+      "code": "XEC",
+      "name": "eCash",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.00010825598029864,
+      "type": "DIG"
+    },
+    {
+      "code": "AMP",
+      "name": "Amp",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 0.0481255202824281,
+      "type": "DIG"
+    },
+    {
+      "code": "ENJ",
+      "name": "Enjin Coin",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 2.39370281247003,
+      "type": "DIG"
+    },
+    {
+      "code": "OKB",
+      "name": "OKB",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 32.2274411560763,
+      "type": "DIG"
+    },
+    {
+      "code": "CRV",
+      "name": "Curve DAO Token",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 4.30413548988522,
+      "type": "DIG"
+    },
+    {
+      "code": "NEO",
+      "name": "Neo",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 26.1898314140644,
+      "type": "DIG"
+    },
+    {
+      "code": "AR",
+      "name": "Arweave",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 53.649378237244,
+      "type": "DIG"
+    },
+    {
+      "code": "KDA",
+      "name": "Kadena",
+      "updated": "2021-12-21T15:50:00.159Z",
+      "price_usd": 10.9594435099867,
+      "type": "DIG"
+    },
+    {
+      "code": "MNT",
+      "name": "Mongolian Tugrik",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000349741780589622,
+      "type": "FIAT"
+    },
+    {
+      "code": "MOP",
+      "name": "Macanese Pataca",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.124475073057532,
+      "type": "FIAT"
+    },
+    {
+      "code": "MRO",
+      "name": "Mauritanian Ouguiya (pre-2018)",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00280112179773935,
+      "type": "FIAT"
+    },
+    {
+      "code": "MRU",
+      "name": "Mauritanian Ouguiya",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0274574409665019,
+      "type": "FIAT"
+    },
+    {
+      "code": "MUR",
+      "name": "Mauritian Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0227790432801822,
+      "type": "FIAT"
+    },
+    {
+      "code": "MVR",
+      "name": "Maldivian Rufiyaa",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0647249190938511,
+      "type": "FIAT"
+    },
+    {
+      "code": "MWK",
+      "name": "Malawian Kwacha",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00123171176541523,
+      "type": "FIAT"
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0481785218511518,
+      "type": "FIAT"
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.237614351906855,
+      "type": "FIAT"
+    },
+    {
+      "code": "MZN",
+      "name": "Mozambican Metical",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0156666144446185,
+      "type": "FIAT"
+    },
+    {
+      "code": "NAD",
+      "name": "Namibian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0633713561470216,
+      "type": "FIAT"
+    },
+    {
+      "code": "NGN",
+      "name": "Nigerian Naira",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00243652843428683,
+      "type": "FIAT"
+    },
+    {
+      "code": "NIO",
+      "name": "Nicaraguan Córdoba",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0278784561758475,
+      "type": "FIAT"
+    },
+    {
+      "code": "NOK",
+      "name": "Norwegian Krone",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.111301225971874,
+      "type": "FIAT"
+    },
+    {
+      "code": "NPR",
+      "name": "Nepalese Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00827267087191345,
+      "type": "FIAT"
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.675381793327768,
+      "type": "FIAT"
+    },
+    {
+      "code": "OMR",
+      "name": "Omani Rial",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 2.60075317812038,
+      "type": "FIAT"
+    },
+    {
+      "code": "PAB",
+      "name": "Panamanian Balboa",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1,
+      "type": "FIAT"
+    },
+    {
+      "code": "PEN",
+      "name": "Peruvian Nuevo Sol",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.246918762492546,
+      "type": "FIAT"
+    },
+    {
+      "code": "PGK",
+      "name": "Papua New Guinean Kina",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.281243636862716,
+      "type": "FIAT"
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0200238271528823,
+      "type": "FIAT"
+    },
+    {
+      "code": "PKR",
+      "name": "Pakistani Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00561882379239916,
+      "type": "FIAT"
+    },
+    {
+      "code": "PLN",
+      "name": "Polish Zloty",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.243958251912267,
+      "type": "FIAT"
+    },
+    {
+      "code": "PYG",
+      "name": "Paraguayan Guarani",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000146992991032282,
+      "type": "FIAT"
+    },
+    {
+      "code": "QAR",
+      "name": "Qatari Rial",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.272879887005896,
+      "type": "FIAT"
+    },
+    {
+      "code": "RON",
+      "name": "Romanian Leu",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.228096986838804,
+      "type": "FIAT"
+    },
+    {
+      "code": "RSD",
+      "name": "Serbian Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00960312567143854,
+      "type": "FIAT"
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0135034771453649,
+      "type": "FIAT"
+    },
+    {
+      "code": "RWF",
+      "name": "Rwandan Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000993106649120233,
+      "type": "FIAT"
+    },
+    {
+      "code": "SAR",
+      "name": "Saudi Riyal",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.266348185263275,
+      "type": "FIAT"
+    },
+    {
+      "code": "SBD",
+      "name": "Solomon Islands Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.123449489838811,
+      "type": "FIAT"
+    },
+    {
+      "code": "SCR",
+      "name": "Seychellois Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0734191373001742,
+      "type": "FIAT"
+    },
+    {
+      "code": "SDG",
+      "name": "Sudanese Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00228571428571429,
+      "type": "FIAT"
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.109367393839532,
+      "type": "FIAT"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.732751040506478,
+      "type": "FIAT"
+    },
+    {
+      "code": "SHP",
+      "name": "Saint Helena Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "SLL",
+      "name": "Sierra Leonean Leone",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000887114804294001,
+      "type": "FIAT"
+    },
+    {
+      "code": "SOS",
+      "name": "Somali Shilling",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00172877150663282,
+      "type": "FIAT"
+    },
+    {
+      "code": "STD",
+      "name": "São Tomé and Príncipe Dobra (pre-2018)",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000471270401884314,
+      "type": "FIAT"
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.029731818992686,
+      "type": "FIAT"
+    },
+    {
+      "code": "TJS",
+      "name": "Tajikistani Somoni",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0885131760271268,
+      "type": "FIAT"
+    },
+    {
+      "code": "TMT",
+      "name": "Turkmenistani Manat",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.284900284900285,
+      "type": "FIAT"
+    },
+    {
+      "code": "TND",
+      "name": "Tunisian Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.347463516330785,
+      "type": "FIAT"
+    },
+    {
+      "code": "TOP",
+      "name": "Tongan Pa'anga",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.436823142540633,
+      "type": "FIAT"
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0762928859477812,
+      "type": "FIAT"
+    },
+    {
+      "code": "TTD",
+      "name": "Trinidad and Tobago Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.14772790057085,
+      "type": "FIAT"
+    },
+    {
+      "code": "TWD",
+      "name": "New Taiwan Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0359289625486914,
+      "type": "FIAT"
+    },
+    {
+      "code": "TZS",
+      "name": "Tanzanian Shilling",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000434027777777778,
+      "type": "FIAT"
+    },
+    {
+      "code": "UAH",
+      "name": "Ukrainian Hryvnia",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0366835125915974,
+      "type": "FIAT"
+    },
+    {
+      "code": "UGX",
+      "name": "Ugandan Shilling",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000281889639304166,
+      "type": "FIAT"
+    },
+    {
+      "code": "USD",
+      "name": "United States Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1,
+      "type": "FIAT"
+    },
+    {
+      "code": "UYU",
+      "name": "Uruguayan Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0225359892988306,
+      "type": "FIAT"
+    },
+    {
+      "code": "UZS",
+      "name": "Uzbekistan Som",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000922845159715117,
+      "type": "FIAT"
+    },
+    {
+      "code": "VES",
+      "name": "Venezuelan Bolívar Soberano",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.216924445215731,
+      "type": "FIAT"
+    },
+    {
+      "code": "VND",
+      "name": "Vietnamese Dong",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000436049994260339,
+      "type": "FIAT"
+    },
+    {
+      "code": "VUV",
+      "name": "Vanuatu Vatu",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00880980992068643,
+      "type": "FIAT"
+    },
+    {
+      "code": "WST",
+      "name": "Samoan Tala",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.383517786212612,
+      "type": "FIAT"
+    },
+    {
+      "code": "XAF",
+      "name": "CFA Franc BEAC",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00172134823691785,
+      "type": "FIAT"
+    },
+    {
+      "code": "XAG",
+      "name": "Silver Ounce",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 22.6934800724013,
+      "type": "FIAT"
+    },
+    {
+      "code": "XAU",
+      "name": "Gold Ounce",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1798.10838997375,
+      "type": "FIAT"
+    },
+    {
+      "code": "XCD",
+      "name": "East Caribbean Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.370020906181199,
+      "type": "FIAT"
+    },
+    {
+      "code": "XDR",
+      "name": "Special Drawing Rights",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.40236719582656,
+      "type": "FIAT"
+    },
+    {
+      "code": "XOF",
+      "name": "CFA Franc BCEAO",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00172134823691785,
+      "type": "FIAT"
+    },
+    {
+      "code": "XPD",
+      "name": "Palladium Ounce",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1830.93176117326,
+      "type": "FIAT"
+    },
+    {
+      "code": "XPF",
+      "name": "CFP Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00946211294280796,
+      "type": "FIAT"
+    },
+    {
+      "code": "XPT",
+      "name": "Platinum Ounce",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 941.992124945835,
+      "type": "FIAT"
+    },
+    {
+      "code": "YER",
+      "name": "Yemeni Rial",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00399600303792135,
+      "type": "FIAT"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0630808603901337,
+      "type": "FIAT"
+    },
+    {
+      "code": "ZMW",
+      "name": "Zambian Kwacha",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0607070992945956,
+      "type": "FIAT"
+    },
+    {
+      "code": "ZWL",
+      "name": "Zimbabwean Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0031055900621118,
+      "type": "FIAT"
+    },
+    {
+      "code": "AED",
+      "name": "United Arab Emirates Dirham",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.272258641353147,
+      "type": "FIAT"
+    },
+    {
+      "code": "AFN",
+      "name": "Afghan Afghani",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00974542389733671,
+      "type": "FIAT"
+    },
+    {
+      "code": "ALL",
+      "name": "Albanian Lek",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00934057484438229,
+      "type": "FIAT"
+    },
+    {
+      "code": "AMD",
+      "name": "Armenian Dram",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00203075672855602,
+      "type": "FIAT"
+    },
+    {
+      "code": "ANG",
+      "name": "Netherlands Antillean Guilder",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.554950967307284,
+      "type": "FIAT"
+    },
+    {
+      "code": "AOA",
+      "name": "Angolan Kwanza",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00176617908349435,
+      "type": "FIAT"
+    },
+    {
+      "code": "ARS",
+      "name": "Argentine Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00978319462393889,
+      "type": "FIAT"
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.712819851177471,
+      "type": "FIAT"
+    },
+    {
+      "code": "AWG",
+      "name": "Aruban Florin",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.555555555555556,
+      "type": "FIAT"
+    },
+    {
+      "code": "AZN",
+      "name": "Azerbaijani Manat",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.587956879242476,
+      "type": "FIAT"
+    },
+    {
+      "code": "BAM",
+      "name": "Bosnia-Herzegovina Convertible Mark",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.577102977678234,
+      "type": "FIAT"
+    },
+    {
+      "code": "BBD",
+      "name": "Barbadian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.5,
+      "type": "FIAT"
+    },
+    {
+      "code": "BDT",
+      "name": "Bangladeshi Taka",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0116574493934384,
+      "type": "FIAT"
+    },
+    {
+      "code": "BGN",
+      "name": "Bulgarian Lev",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.57702538796302,
+      "type": "FIAT"
+    },
+    {
+      "code": "BHD",
+      "name": "Bahraini Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 2.65284358303666,
+      "type": "FIAT"
+    },
+    {
+      "code": "BIF",
+      "name": "Burundian Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000499957958785225,
+      "type": "FIAT"
+    },
+    {
+      "code": "BMD",
+      "name": "Bermudan Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1,
+      "type": "FIAT"
+    },
+    {
+      "code": "BND",
+      "name": "Brunei Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.733122243002165,
+      "type": "FIAT"
+    },
+    {
+      "code": "BOB",
+      "name": "Bolivian Boliviano",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.145054806057373,
+      "type": "FIAT"
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.174264390796958,
+      "type": "FIAT"
+    },
+    {
+      "code": "BSD",
+      "name": "Bahamian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1,
+      "type": "FIAT"
+    },
+    {
+      "code": "BTN",
+      "name": "Bhutanese Ngultrum",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.013236300485252,
+      "type": "FIAT"
+    },
+    {
+      "code": "BWP",
+      "name": "Botswanan Pula",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0853128837213548,
+      "type": "FIAT"
+    },
+    {
+      "code": "BYN",
+      "name": "Belarusian Ruble",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.395665406340459,
+      "type": "FIAT"
+    },
+    {
+      "code": "BZD",
+      "name": "Belize Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.496182126626671,
+      "type": "FIAT"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.773223576824015,
+      "type": "FIAT"
+    },
+    {
+      "code": "CDF",
+      "name": "Congolese Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000500098636454462,
+      "type": "FIAT"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.083744162683,
+      "type": "FIAT"
+    },
+    {
+      "code": "CLF",
+      "name": "Chilean Unit of Account (UF)",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 31.8299010090079,
+      "type": "FIAT"
+    },
+    {
+      "code": "CLP",
+      "name": "Chilean Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00115353558657285,
+      "type": "FIAT"
+    },
+    {
+      "code": "CNH",
+      "name": "Chinese Yuan (Offshore)",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.156698426826144,
+      "type": "FIAT"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.156948913128777,
+      "type": "FIAT"
+    },
+    {
+      "code": "COP",
+      "name": "Colombian Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000250225202682414,
+      "type": "FIAT"
+    },
+    {
+      "code": "CRC",
+      "name": "Costa Rican Colón",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00156742128649331,
+      "type": "FIAT"
+    },
+    {
+      "code": "KPW",
+      "name": "North Korean Won",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00111111111111111,
+      "type": "FIAT"
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000839320231120389,
+      "type": "FIAT"
+    },
+    {
+      "code": "KWD",
+      "name": "Kuwaiti Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 3.3017030184169,
+      "type": "FIAT"
+    },
+    {
+      "code": "KYD",
+      "name": "Cayman Islands Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.2001228925842,
+      "type": "FIAT"
+    },
+    {
+      "code": "KZT",
+      "name": "Kazakhstani Tenge",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0022852751733544,
+      "type": "FIAT"
+    },
+    {
+      "code": "LAK",
+      "name": "Laotian Kip",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000898154207859034,
+      "type": "FIAT"
+    },
+    {
+      "code": "SRD",
+      "name": "Surinamese Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0465636058856398,
+      "type": "FIAT"
+    },
+    {
+      "code": "SSP",
+      "name": "South Sudanese Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00767695378473822,
+      "type": "FIAT"
+    },
+    {
+      "code": "STN",
+      "name": "São Tomé and Príncipe Dobra",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0454545454545455,
+      "type": "FIAT"
+    },
+    {
+      "code": "SVC",
+      "name": "Salvadoran Colón",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.114300253277931,
+      "type": "FIAT"
+    },
+    {
+      "code": "SYP",
+      "name": "Syrian Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000398009950248756,
+      "type": "FIAT"
+    },
+    {
+      "code": "SZL",
+      "name": "Swazi Lilangeni",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0631586739154298,
+      "type": "FIAT"
+    },
+    {
+      "code": "CUC",
+      "name": "Cuban Convertible Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1,
+      "type": "FIAT"
+    },
+    {
+      "code": "CUP",
+      "name": "Cuban Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0388349514563107,
+      "type": "FIAT"
+    },
+    {
+      "code": "CVE",
+      "name": "Cape Verdean Escudo",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0101884870096791,
+      "type": "FIAT"
+    },
+    {
+      "code": "CZK",
+      "name": "Czech Republic Koruna",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0447187192558805,
+      "type": "FIAT"
+    },
+    {
+      "code": "DJF",
+      "name": "Djiboutian Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00562081079566197,
+      "type": "FIAT"
+    },
+    {
+      "code": "DKK",
+      "name": "Danish Krone",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.151836285258473,
+      "type": "FIAT"
+    },
+    {
+      "code": "DOP",
+      "name": "Dominican Peso",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0175711041084404,
+      "type": "FIAT"
+    },
+    {
+      "code": "DZD",
+      "name": "Algerian Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00719709237468063,
+      "type": "FIAT"
+    },
+    {
+      "code": "EGP",
+      "name": "Egyptian Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0636557497055922,
+      "type": "FIAT"
+    },
+    {
+      "code": "ERN",
+      "name": "Eritrean Nakfa",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.066666493333784,
+      "type": "FIAT"
+    },
+    {
+      "code": "ETB",
+      "name": "Ethiopian Birr",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0205510648852812,
+      "type": "FIAT"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.1291307838313,
+      "type": "FIAT"
+    },
+    {
+      "code": "FJD",
+      "name": "Fijian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.467486326024964,
+      "type": "FIAT"
+    },
+    {
+      "code": "FKP",
+      "name": "Falkland Islands Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound Sterling",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "GEL",
+      "name": "Georgian Lari",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.323624595469256,
+      "type": "FIAT"
+    },
+    {
+      "code": "GGP",
+      "name": "Guernsey Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "GHS",
+      "name": "Ghanaian Cedi",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.164230714592474,
+      "type": "FIAT"
+    },
+    {
+      "code": "GIP",
+      "name": "Gibraltar Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "GMD",
+      "name": "Gambian Dalasi",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.019047619047619,
+      "type": "FIAT"
+    },
+    {
+      "code": "GNF",
+      "name": "Guinean Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00010748646155214,
+      "type": "FIAT"
+    },
+    {
+      "code": "GTQ",
+      "name": "Guatemalan Quetzal",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.129494746462883,
+      "type": "FIAT"
+    },
+    {
+      "code": "GYD",
+      "name": "Guyanaese Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00478046103196434,
+      "type": "FIAT"
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.128190468474631,
+      "type": "FIAT"
+    },
+    {
+      "code": "HNL",
+      "name": "Honduran Lempira",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0411894711968,
+      "type": "FIAT"
+    },
+    {
+      "code": "HRK",
+      "name": "Croatian Kuna",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.150116340163627,
+      "type": "FIAT"
+    },
+    {
+      "code": "HTG",
+      "name": "Haitian Gourde",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0098175583496763,
+      "type": "FIAT"
+    },
+    {
+      "code": "HUF",
+      "name": "Hungarian Forint",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00306645718307522,
+      "type": "FIAT"
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000699719062796287,
+      "type": "FIAT"
+    },
+    {
+      "code": "ILS",
+      "name": "Israeli New Sheqel",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.316143454518496,
+      "type": "FIAT"
+    },
+    {
+      "code": "IMP",
+      "name": "Manx pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0132215404490818,
+      "type": "FIAT"
+    },
+    {
+      "code": "IQD",
+      "name": "Iraqi Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000685259629342148,
+      "type": "FIAT"
+    },
+    {
+      "code": "IRR",
+      "name": "Iranian Rial",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0000236686390532544,
+      "type": "FIAT"
+    },
+    {
+      "code": "ISK",
+      "name": "Icelandic Króna",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00769112444239348,
+      "type": "FIAT"
+    },
+    {
+      "code": "JEP",
+      "name": "Jersey Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.32540564039624,
+      "type": "FIAT"
+    },
+    {
+      "code": "JMD",
+      "name": "Jamaican Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00649952860218954,
+      "type": "FIAT"
+    },
+    {
+      "code": "JOD",
+      "name": "Jordanian Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 1.41063619692481,
+      "type": "FIAT"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00878985650559255,
+      "type": "FIAT"
+    },
+    {
+      "code": "KES",
+      "name": "Kenyan Shilling",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00885034073811842,
+      "type": "FIAT"
+    },
+    {
+      "code": "KGS",
+      "name": "Kyrgystani Som",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0117930716883138,
+      "type": "FIAT"
+    },
+    {
+      "code": "KHR",
+      "name": "Cambodian Riel",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000245494736567317,
+      "type": "FIAT"
+    },
+    {
+      "code": "KMF",
+      "name": "Comorian Franc",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00229147689180179,
+      "type": "FIAT"
+    },
+    {
+      "code": "LBP",
+      "name": "Lebanese Pound",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000661384383600932,
+      "type": "FIAT"
+    },
+    {
+      "code": "LKR",
+      "name": "Sri Lankan Rupee",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00493901294468372,
+      "type": "FIAT"
+    },
+    {
+      "code": "LRD",
+      "name": "Liberian Dollar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.00701016537772275,
+      "type": "FIAT"
+    },
+    {
+      "code": "LSL",
+      "name": "Lesotho Loti",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.063129356280686,
+      "type": "FIAT"
+    },
+    {
+      "code": "LYD",
+      "name": "Libyan Dinar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.217048038157045,
+      "type": "FIAT"
+    },
+    {
+      "code": "MAD",
+      "name": "Moroccan Dirham",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.107826302609127,
+      "type": "FIAT"
+    },
+    {
+      "code": "MDL",
+      "name": "Moldovan Leu",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0561747227117381,
+      "type": "FIAT"
+    },
+    {
+      "code": "MGA",
+      "name": "Malagasy Ariary",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000253112908407995,
+      "type": "FIAT"
+    },
+    {
+      "code": "MKD",
+      "name": "Macedonian Denar",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.0183408264779909,
+      "type": "FIAT"
+    },
+    {
+      "code": "MMK",
+      "name": "Myanma Kyat",
+      "updated": "2021-12-21T15:00:00.336Z",
+      "price_usd": 0.000562513344996283,
+      "type": "FIAT"
+    },
+    {
+      "code": "VEF",
+      "name": "Venezuelan Bolívar Fuerte (Old)",
+      "updated": "2021-01-04T18:00:06.998Z",
+      "price_usd": 0.00000402434499752762,
+      "type": "FIAT"
+    }
+  ]
+}
